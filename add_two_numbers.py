@@ -30,6 +30,21 @@ class Solution:
         self, l1: ListNode | None, l2: ListNode | None
     ) -> ListNode | None:
         # Write your solution here. Return the head of the result linked list.
+        
+        #l1 = list 1
+        #l2 = list 2
+        # return l3
+        """
+        1. Initialize Pointers and Carry
+        2. Traverse and Compute Sums
+        3. Update Carry and Append Nodes
+        4. Return the Result Head
+        """
+        
+        
+        
+        
+        # END OF SOLUTION
         raise NotImplementedError("Implement addTwoNumbers to begin practicing.")
 
 
